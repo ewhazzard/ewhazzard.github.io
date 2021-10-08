@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: NexSTEM IT Student Retention
+  role: Research Team Member
+  duration: 2019 &mdash; 2021
+  # url: "#"
+  description: Analysing student retention at Illinois State University, specifically in the School of Information Technology. This analysis included mulitple statistical analysis in Python and PowerBI. Each semester we presented our work to the larger NexSTEM organization.
+
+# Springfield Community Outreach Group
+- project: Blumio Blood Pressure Prediction Based on Artierial Pulse Pressure Waveforms
+  role: Primary Researcher
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: Researching and devloping a machine learning approach to predicting constistent blood pressure readings based on radar readings obtained from a wearable device. This reserach is currently in progress. I am using data from a medical technology startup, Blumio.
